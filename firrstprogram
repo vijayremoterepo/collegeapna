@@ -1,5 +1,6 @@
 class College{
       public static void main(string[] args){
           System.out.println("Hello, Namste!!");
+          System.out.println("Hello, Namste!!");
       }
 }
